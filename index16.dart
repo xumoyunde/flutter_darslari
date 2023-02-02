@@ -2,11 +2,12 @@ void main(List<String> args) {
 
   deployMoney(-1);
 
-   try {
-    deployMoney(-1);
-   } catch (e) {
-    print("Xato: " + e.xatoniKorsat());
-   }
+  // Ushbu kod ishlamadi
+  //  try {
+  //   deployMoney(-1);
+  //  } catch (e) {
+  //   print("Xato: " + e.xatoniKorsat());
+  //  }
 
   print("Qanaqadir xato olinganda");
   // try {
