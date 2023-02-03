@@ -1,0 +1,2 @@
+/* polimorfizm
+  inhairitance */

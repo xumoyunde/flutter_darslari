@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Dart & Flutter",
-            "program": "ex/index.dart",
+            "program": "index3.dart",
             "request": "launch",
             "type": "dart"
         }
