@@ -22,3 +22,5 @@ void main(List<String> args) {
 
   funksiyaniOl();
 }
+
+// exit
